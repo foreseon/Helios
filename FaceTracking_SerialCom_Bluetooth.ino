@@ -1,3 +1,4 @@
+//Kütüphaneler
 #include <Servo.h>
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
@@ -1841,6 +1842,7 @@ void LCD_Display(String l1,int s1,String l2,int s2){
           }
   }
  }*/
+
 
 
 
