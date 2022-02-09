@@ -1,4 +1,4 @@
-#Helios
+# Helios
 Helios is a voice actived automatic face-following/tracking robot, it also can be used manually using a hacked PS2 console.
 
 
